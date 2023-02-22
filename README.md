@@ -7,7 +7,7 @@ Using Camera Module v2 with a LiDAR LD19 sensor we simulate the sense of sight. 
 
 ## Authors
 
-- [@Yaron Brener & Roni Levin](https://github.com/Yaronbr)
+- [@Yaron Brenner & Roni Levin](https://github.com/Yaronbr)
 
 
 
