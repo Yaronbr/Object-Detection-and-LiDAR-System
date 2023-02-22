@@ -1,6 +1,7 @@
 
 # Object detection system for visually impaired people
 
+This project is a Final project at B.S.c of Electrical Engineering in HIT - Israel.
 Our project was based on a Raspberry Pi mini-PC.
 Using Camera Module v2 with a LiDAR LD19 sensor we simulate the sense of sight. The image capture through the "eye" translated into a three-dimensional sound alert for the user, where the information and the way it is transmitted indicates the location of the obstacles and the type of objects in his environment as accurately as possible.
 
