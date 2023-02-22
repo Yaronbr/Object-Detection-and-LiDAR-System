@@ -27,6 +27,9 @@ Using Camera Module v2 with a LiDAR LD19 sensor we simulate the sense of sight. 
 
 [TensorFlow Lite](https://www.tensorflow.org/lite/guide/python)
 
+## Environment variable
+
+The project was tested on Python 3.9 environment variable
 
 ## Installation
 
@@ -36,4 +39,4 @@ Use the package manager pip to install:
 time , gtts , openal , os , subprocess , serial , math , numpy , argparse
 , datetime , math , random , cv2 , matplotlib.pyplot 
 ```
-    
+
