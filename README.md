@@ -13,8 +13,8 @@ Using Camera Module v2 with a LiDAR LD19 sensor we simulate the sense of sight. 
 
 ## Features
 
-- Object detection
-- Distance measurement 
+- Object detection and tracking
+- Distance measurement using LiDAR
 - 3D Sound
 
 
